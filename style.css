@@ -126,19 +126,7 @@
 .slider .carousel-control-prev ,.slider .carousel-control-next{
   transition: 0.5s;
 }
-/* + بحطها لو الاتنين ديف ورا بعض  
-.slider carousel-inner:hover + .carousel-control-prev .carousel-control-prev-icon {
-  animation: fadeInLeft 0.5s ease forwards;
-}
-هنا الاتنين ديف ورا بعض 
-*/
-/*ّّ ~ بحطها لو الاتنين ديف مش ورا بعض  
-.slider carousel-inner:hover ~ .carousel-control-prev .carousel-control-prev-icon {
-  animation: fadeInLeft 0.5s ease forwards;
-}
-هنا الاتنين ديف مش ورا بعض 
-*/
-/* لكن لو الديف جوا الديف الي هعمل هوفر عليه مش بحط حاجه زي الحالة دي */
+
 .slider #mainSlide:hover  .carousel-control-prev .carousel-control-prev-icon {
   animation: fadeInLeft 0.5s ease forwards;
 }
